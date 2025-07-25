@@ -33,7 +33,7 @@ Users can search for songs, preview tracks, and enjoy a clean and responsive UI.
 
 ```bash
 git clone https://github.com/sevderk/Simple-Music-Search-App.git
-cd melofy
+cd Simple-Music-Search-App
 npm install
 npm run dev
 
