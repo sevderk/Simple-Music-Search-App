@@ -1,13 +1,39 @@
-# React + Vite
+# 🎵 Simple Music Search App w/React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+It is a minimal and stylish React-based music player app powered by the iTunes Search API.  
+Users can search for songs, preview tracks, and enjoy a clean and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔎 Search for songs using any keyword (artist, song name, album title, genre, etc.)
+- 🎧 Play 30-second song previews
+- 🎨 Responsive and elegant UI with grid layout
+- 💿 Album artwork with enhanced quality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Simple-Music-Search-App
+---
+
+## 🛠️ Built With
+
+- React
+- iTunes Search API
+- CSS (custom styling)
+
+---
+
+## 📸 Screenshots
+
+> <img width="1891" height="853" alt="screenshot" src="https://github.com/user-attachments/assets/f275c565-2849-42c9-ad94-1b2511399860" />
+
+
+---
+
+## 📂 Installation
+
+```bash
+git clone https://github.com/sevderk/Simple-Music-Search-App.git
+cd melofy
+npm install
+npm run dev
+
