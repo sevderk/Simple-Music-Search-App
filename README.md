@@ -1,4 +1,5 @@
 <img width="1920" height="809" alt="njknk" src="https://github.com/user-attachments/assets/0305bbd4-7a35-4289-aa13-09c0d9e7128d" />
+
 ## 🎵 Simple Music Search App w/React
 
 It is a minimal and stylish React-based music player app powered by the iTunes Search API.  
