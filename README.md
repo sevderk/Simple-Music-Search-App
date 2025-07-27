@@ -24,7 +24,9 @@ Users can search for songs, preview tracks, and enjoy a clean and responsive UI.
 
 ## 📸 Screenshots
 
-> <img width="1891" height="853" alt="screenshot" src="https://github.com/user-attachments/assets/f275c565-2849-42c9-ad94-1b2511399860" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-27 194308" src="https://github.com/user-attachments/assets/5f665d35-5840-48d6-9ebd-52005b2509c7" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-27 194414" src="https://github.com/user-attachments/assets/ae43f88b-65f4-4647-9fee-b8372d824e06" />
+
 
 
 ---
