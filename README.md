@@ -5,6 +5,8 @@
 It is a minimal and stylish React-based music player app powered by the iTunes Search API.  
 Users can search for songs, preview tracks, and enjoy a clean and responsive UI.
 
+🔗 Live Demo: [https://simple-music-search.netlify.app](https://simple-music-search.netlify.app)
+
 ---
 
 ## 🚀 Features
