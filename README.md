@@ -1,13 +1,43 @@
-# React + Vite
+<img width="1920" height="809" alt="njknk" src="https://github.com/user-attachments/assets/0305bbd4-7a35-4289-aa13-09c0d9e7128d" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🎵 Simple Music Search App w/React
 
-Currently, two official plugins are available:
+It is a minimal and stylish React-based music player app powered by the iTunes Search API.  
+Users can search for songs, preview tracks, and enjoy a clean and responsive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Simple-Music-Search-App
+- 🔎 Search for songs using any keyword (artist, song name, album title, genre, etc.)
+- 🎧 Play 30-second song previews
+- 🎨 Responsive and elegant UI with grid layout
+- 💿 Album artwork with enhanced quality
+
+---
+
+## 🛠️ Built With
+
+- React
+- iTunes Search API
+- CSS (custom styling)
+
+---
+
+## 📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-27 194308" src="https://github.com/user-attachments/assets/5f665d35-5840-48d6-9ebd-52005b2509c7" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-27 194414" src="https://github.com/user-attachments/assets/ae43f88b-65f4-4647-9fee-b8372d824e06" />
+
+
+
+---
+
+## 📂 Installation
+
+```bash
+git clone https://github.com/sevderk/Simple-Music-Search-App.git
+cd Simple-Music-Search-App
+npm install
+npm run dev
+
